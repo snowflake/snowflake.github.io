@@ -49,3 +49,6 @@ Foo *bar*
 </html>
 ```
 [Link to Google](https://www.google.com/)
+
+A Euro sign &#x20ac;
+
