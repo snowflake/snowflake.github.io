@@ -34,3 +34,9 @@ Setext heading:
 Foo *bar*
 =========
 
+<pre>
+<html>
+<body>
+</body>
+</html>
+</pre>
