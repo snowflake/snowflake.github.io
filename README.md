@@ -40,3 +40,10 @@ Foo *bar*
 </body>
 </html>
 </pre>
+
+```html
+<html>
+    <body>
+        </oody>
+</html>
+```
