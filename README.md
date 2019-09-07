@@ -3,7 +3,7 @@
 
 Nothing here yet.
 
-```C
+```c
 /* some code, in time-honoured tradition */
 #include <stdio.h>
 int
