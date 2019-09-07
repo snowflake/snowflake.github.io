@@ -37,6 +37,7 @@ Foo *bar*
 <pre>
 <html>
 <body>
+<pre>This is some pref text</pre>
 </body>
 </html>
 </pre>
@@ -47,3 +48,4 @@ Foo *bar*
         </oody>
 </html>
 ```
+[Link to Google](https://www.google.com/)
