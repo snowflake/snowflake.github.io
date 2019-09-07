@@ -29,5 +29,8 @@ Should be HR
 ##### heading 5
 ###### heading 6
 
+Setext heading:
 
+Foo *bar*
+=========
 
